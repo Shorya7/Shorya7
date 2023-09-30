@@ -31,6 +31,8 @@
   <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/64/000000/google-cloud.png"/>
   <img src="https://img.icons8.com/color/64/000000/python--v1.png"/>
+      
+<img width="60px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 </span>
 <hr>
 
