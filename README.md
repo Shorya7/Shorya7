@@ -41,7 +41,7 @@
 <br/>
 <p align="center">
 <a href="https://twitter.com/shoryas7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoryas7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shorya ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shorya ." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shorya-9b8b50241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shorya ." height="30" width="40" /></a>
 <a href="https://instagram.com/shorya_saini_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shorya_saini_7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shorya7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shorya7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shorya8990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shorya8990" height="30" width="40" /></a>
