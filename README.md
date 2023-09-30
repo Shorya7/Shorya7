@@ -35,6 +35,7 @@
 <hr>
 
 <h3 align="center">Connect with Me!</h3>
+
 <br/>
 <p align="center">
 <a href="https://twitter.com/shoryas7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoryas7" height="30" width="40" /></a>
