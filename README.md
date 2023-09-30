@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shorya</h1>
 <h3 align="center">A passionate frontend developer, "Exploring the World of Code and Creativity"</h3>
 
-#### I am in my final year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
+#### I am in my pre-final year pursuing B.Tech in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
 ![Visitor Count](https://profile-counter.glitch.me/Shorya7/count.svg)
 
 - 🌱 I’m currently learning **Solidity**
