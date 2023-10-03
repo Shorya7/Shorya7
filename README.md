@@ -25,6 +25,7 @@
   <img src = "https://img.icons8.com/color/2x/redux.png" width="60px"/>
       <img width="60" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
    <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60px"/>
+	  <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60px"/>
 	
   <img src="https://img.icons8.com/color/64/000000/git.png"/>
   <img alt="github" width="60px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
