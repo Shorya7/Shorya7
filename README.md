@@ -6,6 +6,8 @@
 #### I am in my final year pursuing B.Tech in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shorya7" alt="Shorya7" /></a> </p>
 
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 ### Total Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/Shorya7/count.svg)
 
