@@ -1,15 +1,20 @@
 <p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
 
 <h1 align="center">Hi 👋, I'm Shorya</h1>
-<h3 align="center">A passionate frontend developer, "Exploring the World of Code and Creativity"</h3>
+<h3 align="center">A passionate Software Developer, "Exploring the World of Code and Creativity"</h3>
 
-#### I am in my pre-final year pursuing B.Tech in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
+#### I am in my final year pursuing B.Tech in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shorya7" alt="Shorya7" /></a> </p>
+
+### Total Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/Shorya7/count.svg)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Backend** Development.
 
 - 💬 Ask me about **MERN**
 
+- I'm the **National Winner** of **Smart India Hackathon** (SIH), 2023.
+  
 - 📫 How to reach me **shorya8990@gmail.com**
 
 <div align="center">
