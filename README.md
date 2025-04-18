@@ -11,7 +11,7 @@
 ### Total Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/Shorya7/count.svg)
 
-- 🌱 I’m currently learning **Backend** Development.
+- 🌱 I’m currently learning FastAPI.
 
 - 💬 Ask me about **MERN**
 
